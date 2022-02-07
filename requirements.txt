@@ -1,0 +1,4 @@
+# NOTE: This will grab stable only
+# chia-blockchain
+
+git+https://github.com/Chia-Network/chia-blockchain@main#egg=chia-blockchain

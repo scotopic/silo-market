@@ -1,7 +1,15 @@
 # Silo Market (Chia Offer file tool)
 
-## Setup a New Project
+Inspect Chia Offer files.
 
-python3 -m venv silomarketvenv
-. silomarketvenv/bin/activate
-pip install -r requirements.txt
+## Setup
+
+1. `git clone https://github.com/scotopic/silo-market.git`
+1. `python3 -m venv silomarketvenv`
+1. `. silomarketvenv/bin/activate`
+1. `pip install -r requirements.txt`
+
+## Running
+
+`python market.py`
+
